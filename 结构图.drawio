@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T14:46:53.314Z" agent="5.0 (Windows)" version="13.1.4" etag="URcE6RrZGbaZDwpe_YYf" type="github"><diagram id="wx_NBxh8xaoZUvQpfQLf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-27T15:00:03.999Z" agent="5.0 (Windows)" etag="Qj3EZZ_e3RblyTY8jKSz" version="13.1.4" type="github">
+  <diagram id="wx_NBxh8xaoZUvQpfQLf" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;源程序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="60" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-4" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wdp1RjupD37sbPgdv7aJ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="84" as="sourcePoint" />
+            <mxPoint x="325" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-7" value="合法输入程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Wdp1RjupD37sbPgdv7aJ-13" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="325" y="196" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-13" value="文件打开判断程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="196" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-17" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Wdp1RjupD37sbPgdv7aJ-18" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="325" y="276" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-18" value="读字符程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="276" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-19" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Wdp1RjupD37sbPgdv7aJ-20" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="316" as="sourcePoint" />
+            <mxPoint x="325" y="352" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-20" value="读参数程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="352" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-28" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Wdp1RjupD37sbPgdv7aJ-29" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="392" as="sourcePoint" />
+            <mxPoint x="325" y="428" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-29" value="目标代码生成程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="428" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-30" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="468" as="sourcePoint" />
+            <mxPoint x="320" y="504" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-32" value="&lt;font style=&quot;font-size: 24px&quot;&gt;目标程序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="510" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-33" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wdp1RjupD37sbPgdv7aJ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-39" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wdp1RjupD37sbPgdv7aJ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-40" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wdp1RjupD37sbPgdv7aJ-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-41" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-42" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wdp1RjupD37sbPgdv7aJ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-43" value="判断输入的参数个数是否合法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-44" value="打开文件并判断是否打开成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="206" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-45" value="读字符并统计个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="286" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-46" value="判断输入的参数形式，确定输出的参数形式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="362" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wdp1RjupD37sbPgdv7aJ-47" value="输出目标代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="438" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
